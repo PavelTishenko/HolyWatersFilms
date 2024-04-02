@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667718690740",
+    "project_id": "films-a635a",
+    "storage_bucket": "films-a635a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667718690740:android:dc3b8977713883dc6174e1",
+        "android_client_info": {
+          "package_name": "com.holywatersfilms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqdMLjlcchnD17KtT0wlBq3oBML2ulKqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

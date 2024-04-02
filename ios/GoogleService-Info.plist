@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB3C17PCIBr3UPxzxN0MPOsD9R7gg28R7Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>667718690740</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.HolyWatersFilms</string>
+	<key>PROJECT_ID</key>
+	<string>films-a635a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>films-a635a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:667718690740:ios:2ff68072f5e34e4d6174e1</string>
+</dict>
+</plist>
