@@ -8,6 +8,7 @@
 import React, { useEffect } from 'react';
 import { View } from 'react-native';
 import remoteConfig from '@react-native-firebase/remote-config';
+import RootNavigator from '@/navigation/RootNavigator';
 
 function App(): React.JSX.Element {
   useEffect(() => {
@@ -29,7 +30,7 @@ function App(): React.JSX.Element {
       // }
     })();
   }, []);
-  return <View></View>;
+  return <RootNavigator />;
 }
 
 export default App;
